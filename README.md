@@ -5,6 +5,7 @@
 <br/>
 
 [![Explore my work](https://img.shields.io/badge/Explore_my_work-67E8CE?style=for-the-badge&logo=github&logoColor=0B1420)](https://github.com/MaskatShovo?tab=repositories)
+[![Try Shongjog](https://img.shields.io/badge/Try_Shongjog-F5A15D?style=for-the-badge&logo=github&logoColor=13263F)](https://maskatshovo.github.io/shongjog/)
 [![ReBuild demo](https://img.shields.io/badge/ReBuild_Demo-172536?style=for-the-badge&logo=vercel&logoColor=67E8CE)](https://rebuild-bangladesh-one.vercel.app)
 
 **Curious about the whole system. Focused on making it work.**
@@ -18,6 +19,18 @@ I'm **Maskat Ibne Wahid Shovo**, a Computer Science and Engineering graduate fro
 - **Building:** web platforms with clear workflows, thoughtful interfaces, and documented behavior.
 - **Exploring:** machine learning, computer vision, and the intersection of technology and creativity.
 - **Learning through:** individual projects, team engineering work, and technical writing.
+
+---
+
+### Featured project · Shongjog
+
+<a href="https://github.com/MaskatShovo/shongjog"><img src="assets/shongjog.svg" width="100%" alt="Shongjog — offline-first field sales with duplicate-safe receipts and a live resilience lab" /></a>
+
+A business-continuity prototype for field sales in Bangladesh. Orders survive connection loss, repeated deliveries resolve to one receipt, and a live failure lab lets you inspect the recovery.
+
+**[Try the public demo →](https://maskatshovo.github.io/shongjog/)** · [Explore the code](https://github.com/MaskatShovo/shongjog) · [Engineering case study](https://github.com/MaskatShovo/shongjog/blob/main/docs/case-study.md) · [Test evidence](https://github.com/MaskatShovo/shongjog/blob/main/docs/verification.md)
+
+<sub>The public browser demo simulates its warehouse and SMS transport. The full-stack implementation includes an authenticated D1-backed API. Independent project; no operator affiliation is claimed.</sub>
 
 ---
 
